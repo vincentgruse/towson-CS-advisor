@@ -5,9 +5,8 @@ Go to [Ollama's website](https://ollama.com/download) and download the appropria
 
 
 Run the following from the command line:
-```
-ollama run llama3.2:1b
-```
+
+`ollama run llama3.2:1b`
 
 This will put ollama on its default port [http://localhost:11434](http://localhost:11434).  You should see "Ollama is running." if everything is working.
 
