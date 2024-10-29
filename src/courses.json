@@ -1,0 +1,985 @@
+{
+    "creditRequirements": {
+        "required_computer_science": 34,
+        "required_mathematics": {
+            "min": 15,
+            "max": 16
+        }
+    },
+    "courses": [
+        {
+            "id": "CIS377",
+            "name": "Intro to Cybersecurity",
+            "credits": 3,
+            "section": null,
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC236",
+            "name": "Intro to Computer Science I",
+            "credits": 4,
+            "section": null,
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC237",
+            "name": "Intro to Computer Science II",
+            "credits": 4,
+            "section": null,
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC290",
+            "name": "Principles of Computer Organization",
+            "credits": 4,
+            "section": null,
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC336",
+            "name": "Data Structures & Algorithm Analysis",
+            "credits": 4,
+            "section": null,
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC350",
+            "name": "Data Communications & Networking",
+            "credits": 3,
+            "section": null,
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC412",
+            "name": "Software Engineering",
+            "credits": 3,
+            "section": null,
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC439",
+            "name": "Operating Systems",
+            "credits": 3,
+            "section": null,
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC455",
+            "name": "Programing Languages",
+            "credits": 3,
+            "section": null,
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC457",
+            "name": "Database Management Systems",
+            "credits": 3,
+            "section": null,
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC417",
+            "name": "Intro to Computing Theory",
+            "credits": 3,
+            "section": null,
+            "group": "group_a",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC432",
+            "name": "Requirements Analysis & Modeling",
+            "credits": 3,
+            "section": null,
+            "group": "group_a",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC436",
+            "name": "Object-Oriented Design & Programming",
+            "credits": 3,
+            "section": null,
+            "group": "group_a",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC459",
+            "name": "Computer Simulation & Modeling",
+            "credits": 3,
+            "section": null,
+            "group": "group_a",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC461",
+            "name": "Artificial Intelligence",
+            "credits": 3,
+            "section": null,
+            "group": "group_a",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC467",
+            "name": "Data Mining",
+            "credits": 3,
+            "section": null,
+            "group": "group_a",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC471",
+            "name": "Computer Graphics",
+            "credits": 3,
+            "section": null,
+            "group": "group_a",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC483",
+            "name": "Design & Analysis of Algorithms",
+            "credits": 3,
+            "section": null,
+            "group": "group_a",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC397",
+            "name": "Internship in COSC",
+            "credits": 3,
+            "section": null,
+            "group": "group_b",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC431",
+            "name": "Special Topics",
+            "credits": 3,
+            "section": null,
+            "group": "group_b",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC435",
+            "name": "Mobile App Development",
+            "credits": 3,
+            "section": null,
+            "group": "group_b",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC440",
+            "name": "Operating Systems Security",
+            "credits": 3,
+            "section": null,
+            "group": "group_b",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC442",
+            "name": "Software Assurance & Testing",
+            "credits": 3,
+            "section": null,
+            "group": "group_b",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC450",
+            "name": "Network Security",
+            "credits": 3,
+            "section": null,
+            "group": "group_b",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC458",
+            "name": "Application Software Security",
+            "credits": 3,
+            "section": null,
+            "group": "group_b",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC465",
+            "name": "Robotics",
+            "credits": 3,
+            "section": null,
+            "group": "group_b",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC484",
+            "name": "Web-Based Programming",
+            "credits": 3,
+            "section": null,
+            "group": "group_b",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC495",
+            "name": "Independent Study",
+            "credits": 3,
+            "section": null,
+            "group": "group_b",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "MATH263",
+            "name": "Discrete Mathematics OR",
+            "credits": 3,
+            "section": null,
+            "group": "group_b",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COMM131",
+            "name": "Public Speaking (Core",
+            "credits": 5,
+            "section": null,
+            "group": "group_b",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "ENGL317",
+            "name": "Writing for Business & Industry (Core",
+            "credits": 9,
+            "section": null,
+            "group": "group_b",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "COSC418",
+            "name": "Ethical & Societal Concerns CS (Core",
+            "credits": 14,
+            "section": null,
+            "group": "group_b",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "BIOL200",
+            "name": "+ L Intro to Cell Biology",
+            "credits": 4,
+            "section": null,
+            "group": "group_b",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "BIOL206",
+            "name": "+ L Intro to Ecology/Evolution",
+            "credits": 4,
+            "section": null,
+            "group": "group_b",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "CHEM131",
+            "name": "+ L General Chemistry",
+            "credits": 4,
+            "section": null,
+            "group": "group_b",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "CHEM132",
+            "name": "+ L General Chemistry II",
+            "credits": 4,
+            "section": null,
+            "group": "group_b",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "GEOL121",
+            "name": "Physical Geology",
+            "credits": 4,
+            "section": null,
+            "group": "group_b",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "PHYS241",
+            "name": "General Physics I",
+            "credits": 4,
+            "section": null,
+            "group": "group_b",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "PHYS242",
+            "name": "General Physics II",
+            "credits": 4,
+            "section": null,
+            "group": "group_b",
+            "prerequisites": [],
+            "offerings": []
+        },
+        {
+            "id": "MATH265",
+            "name": "Elementary Linear Algebra",
+            "credits": 4,
+            "section": null,
+            "group": "group_b",
+            "prerequisites": [],
+            "offerings": []
+        }
+    ],
+    "courseGroups": {
+        "group_a": {
+            "requirement": "At least 2 of the following",
+            "courses": [
+                "COSC417",
+                "COSC432",
+                "COSC436",
+                "COSC459",
+                "COSC461",
+                "COSC467",
+                "COSC471",
+                "COSC483"
+            ]
+        },
+        "group_b": {
+            "requirement": "At least 2 of the following",
+            "courses": [
+                "COSC397",
+                "COSC431",
+                "COSC435",
+                "COSC440",
+                "COSC442",
+                "COSC450",
+                "COSC458",
+                "COSC465",
+                "COSC484",
+                "COSC495",
+                "MATH263",
+                "COMM131",
+                "ENGL317",
+                "COSC418",
+                "BIOL200",
+                "BIOL206",
+                "CHEM131",
+                "CHEM132",
+                "GEOL121",
+                "PHYS241",
+                "PHYS242",
+                "MATH265"
+            ]
+        }
+    },
+    "flowchart": {
+        "nodes": {
+            "CIS377": {
+                "id": "CIS377",
+                "offerings": []
+            },
+            "COSC236": {
+                "id": "COSC236",
+                "offerings": []
+            },
+            "I4": {
+                "id": "I4",
+                "offerings": []
+            },
+            "COSC237": {
+                "id": "COSC237",
+                "offerings": []
+            },
+            "II4": {
+                "id": "II4",
+                "offerings": []
+            },
+            "COSC290": {
+                "id": "COSC290",
+                "offerings": []
+            },
+            "COSC336": {
+                "id": "COSC336",
+                "offerings": []
+            },
+            "COSC350": {
+                "id": "COSC350",
+                "offerings": []
+            },
+            "COSC412": {
+                "id": "COSC412",
+                "offerings": []
+            },
+            "COSC439": {
+                "id": "COSC439",
+                "offerings": []
+            },
+            "COSC455": {
+                "id": "COSC455",
+                "offerings": []
+            },
+            "COSC457": {
+                "id": "COSC457",
+                "offerings": []
+            },
+            "COSC417": {
+                "id": "COSC417",
+                "offerings": []
+            },
+            "COSC432": {
+                "id": "COSC432",
+                "offerings": []
+            },
+            "COSC436": {
+                "id": "COSC436",
+                "offerings": []
+            },
+            "COSC459": {
+                "id": "COSC459",
+                "offerings": []
+            },
+            "COSC461": {
+                "id": "COSC461",
+                "offerings": []
+            },
+            "COSC467": {
+                "id": "COSC467",
+                "offerings": []
+            },
+            "COSC471": {
+                "id": "COSC471",
+                "offerings": []
+            },
+            "COSC483": {
+                "id": "COSC483",
+                "offerings": []
+            },
+            "COSC397": {
+                "id": "COSC397",
+                "offerings": []
+            },
+            "COSC495": {
+                "id": "COSC495",
+                "offerings": []
+            },
+            "COSC3": {
+                "id": "COSC3",
+                "offerings": []
+            },
+            "COSC431": {
+                "id": "COSC431",
+                "offerings": []
+            },
+            "COSC435": {
+                "id": "COSC435",
+                "offerings": []
+            },
+            "COSC440": {
+                "id": "COSC440",
+                "offerings": []
+            },
+            "COSC442": {
+                "id": "COSC442",
+                "offerings": []
+            },
+            "COSC450": {
+                "id": "COSC450",
+                "offerings": []
+            },
+            "COSC458": {
+                "id": "COSC458",
+                "offerings": []
+            },
+            "COSC465": {
+                "id": "COSC465",
+                "offerings": []
+            },
+            "COSC484": {
+                "id": "COSC484",
+                "offerings": []
+            },
+            "MATH263": {
+                "id": "MATH263",
+                "offerings": []
+            },
+            "OR3": {
+                "id": "OR3",
+                "offerings": []
+            },
+            "MATH267": {
+                "id": "MATH267",
+                "offerings": []
+            },
+            "TH273": {
+                "id": "TH273",
+                "offerings": []
+            },
+            "TH274": {
+                "id": "TH274",
+                "offerings": []
+            },
+            "TH330": {
+                "id": "TH330",
+                "offerings": []
+            },
+            "COMM131": {
+                "id": "COMM131",
+                "offerings": []
+            },
+            "ENGL317": {
+                "id": "ENGL317",
+                "offerings": []
+            },
+            "COSC418": {
+                "id": "COSC418",
+                "offerings": []
+            },
+            "BIOL200": {
+                "id": "BIOL200",
+                "offerings": []
+            },
+            "BIOL206": {
+                "id": "BIOL206",
+                "offerings": []
+            },
+            "CHEM131": {
+                "id": "CHEM131",
+                "offerings": []
+            },
+            "CHEM132": {
+                "id": "CHEM132",
+                "offerings": []
+            },
+            "GEOL121": {
+                "id": "GEOL121",
+                "offerings": []
+            },
+            "PHYS241": {
+                "id": "PHYS241",
+                "offerings": []
+            },
+            "PHYS242": {
+                "id": "PHYS242",
+                "offerings": []
+            },
+            "MATH265": {
+                "id": "MATH265",
+                "offerings": []
+            },
+            "TH275": {
+                "id": "TH275",
+                "offerings": []
+            },
+            "III4": {
+                "id": "III4",
+                "offerings": []
+            },
+            "TH314": {
+                "id": "TH314",
+                "offerings": []
+            },
+            "TH315": {
+                "id": "TH315",
+                "offerings": []
+            },
+            "TH369": {
+                "id": "TH369",
+                "offerings": []
+            },
+            "TH374": {
+                "id": "TH374",
+                "offerings": []
+            },
+            "TH377": {
+                "id": "TH377",
+                "offerings": []
+            },
+            "TH378": {
+                "id": "TH378",
+                "offerings": []
+            },
+            "TH435": {
+                "id": "TH435",
+                "offerings": []
+            },
+            "I3": {
+                "id": "I3",
+                "offerings": []
+            },
+            "TH436": {
+                "id": "TH436",
+                "offerings": []
+            },
+            "II3": {
+                "id": "II3",
+                "offerings": []
+            },
+            "TH437": {
+                "id": "TH437",
+                "offerings": []
+            },
+            "TH451": {
+                "id": "TH451",
+                "offerings": []
+            },
+            "COSC17": {
+                "id": "COSC17",
+                "offerings": []
+            },
+            "COSC23": {
+                "id": "COSC23",
+                "offerings": []
+            },
+            "MATH1": {
+                "id": "MATH1",
+                "offerings": []
+            },
+            "MATH27": {
+                "id": "MATH27",
+                "offerings": []
+            },
+            "COSC33": {
+                "id": "COSC33",
+                "offerings": []
+            },
+            "MATH33": {
+                "id": "MATH33",
+                "offerings": []
+            },
+            "COSC29": {
+                "id": "COSC29",
+                "offerings": []
+            },
+            "COSC45": {
+                "id": "COSC45",
+                "offerings": []
+            },
+            "CIS37": {
+                "id": "CIS37",
+                "offerings": []
+            },
+            "ENGL31": {
+                "id": "ENGL31",
+                "offerings": []
+            },
+            "COSC41": {
+                "id": "COSC41",
+                "offerings": []
+            },
+            "YR20": {
+                "id": "YR20",
+                "offerings": []
+            },
+            "MATH26": {
+                "id": "MATH26",
+                "offerings": []
+            },
+            "COSC35": {
+                "id": "COSC35",
+                "offerings": []
+            },
+            "MATH31": {
+                "id": "MATH31",
+                "offerings": []
+            },
+            "MATH37": {
+                "id": "MATH37",
+                "offerings": []
+            },
+            "MATH43": {
+                "id": "MATH43",
+                "offerings": []
+            },
+            "MATH45": {
+                "id": "MATH45",
+                "offerings": []
+            },
+            "MATH46": {
+                "id": "MATH46",
+                "offerings": []
+            },
+            "MATH21": {
+                "id": "MATH21",
+                "offerings": []
+            },
+            "OR27": {
+                "id": "OR27",
+                "offerings": []
+            },
+            "TH265": {
+                "id": "TH265",
+                "offerings": []
+            },
+            "MATH274": {
+                "id": "MATH274",
+                "offerings": []
+            },
+            "OR26": {
+                "id": "OR26",
+                "offerings": []
+            },
+            "MATH36": {
+                "id": "MATH36",
+                "offerings": []
+            },
+            "ENGL10": {
+                "id": "ENGL10",
+                "offerings": []
+            },
+            "COMM13": {
+                "id": "COMM13",
+                "offerings": []
+            }
+        },
+        "edges": [
+            {
+                "from": "I4",
+                "to": "COSC236",
+                "type": "prerequisite"
+            },
+            {
+                "from": "II4",
+                "to": "COSC237",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC495",
+                "to": "COSC397",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC3",
+                "to": "COSC397",
+                "type": "prerequisite"
+            },
+            {
+                "from": "OR3",
+                "to": "MATH263",
+                "type": "prerequisite"
+            },
+            {
+                "from": "I4",
+                "to": "TH273",
+                "type": "prerequisite"
+            },
+            {
+                "from": "II4",
+                "to": "TH274",
+                "type": "prerequisite"
+            },
+            {
+                "from": "II4",
+                "to": "CHEM132",
+                "type": "prerequisite"
+            },
+            {
+                "from": "I4",
+                "to": "PHYS241",
+                "type": "prerequisite"
+            },
+            {
+                "from": "II4",
+                "to": "PHYS242",
+                "type": "prerequisite"
+            },
+            {
+                "from": "III4",
+                "to": "TH275",
+                "type": "prerequisite"
+            },
+            {
+                "from": "I3",
+                "to": "TH435",
+                "type": "prerequisite"
+            },
+            {
+                "from": "II3",
+                "to": "TH436",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC439",
+                "to": "COSC412",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC455",
+                "to": "COSC412",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC457",
+                "to": "COSC412",
+                "type": "prerequisite"
+            },
+            {
+                "from": "CIS377",
+                "to": "COSC412",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC336",
+                "to": "COSC417",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC412",
+                "to": "COSC432",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC336",
+                "to": "COSC436",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC336",
+                "to": "COSC459",
+                "type": "prerequisite"
+            },
+            {
+                "from": "TH330",
+                "to": "COSC459",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC336",
+                "to": "COSC461",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC336",
+                "to": "COSC467",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC336",
+                "to": "COSC471",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC336",
+                "to": "COSC483",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC336",
+                "to": "COSC397",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC336",
+                "to": "COSC435",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC439",
+                "to": "COSC440",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC412",
+                "to": "COSC442",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC350",
+                "to": "COSC450",
+                "type": "prerequisite"
+            },
+            {
+                "from": "TH314",
+                "to": "COSC450",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC455",
+                "to": "COSC458",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC457",
+                "to": "COSC458",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC336",
+                "to": "COSC465",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC336",
+                "to": "COSC484",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC236",
+                "to": "MATH1",
+                "type": "prerequisite"
+            },
+            {
+                "from": "OR273",
+                "to": "MATH21",
+                "type": "prerequisite"
+            },
+            {
+                "from": "TH265",
+                "to": "COSC236",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC236",
+                "to": "MATH265",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC236",
+                "to": "MATH274",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC236",
+                "to": "MATH265",
+                "type": "prerequisite"
+            },
+            {
+                "from": "OR267",
+                "to": "MATH263",
+                "type": "prerequisite"
+            },
+            {
+                "from": "COSC457",
+                "to": "COSC439",
+                "type": "corequisite"
+            }
+        ]
+    }
+}
