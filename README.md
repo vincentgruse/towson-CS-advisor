@@ -1,3 +1,14 @@
+# Setting up Ollama
+
+Go to [https://ollama.com/download](Ollama's website) and download the appropriate version.
+
+Run the following:
+```
+ollama run llama3.2:1b
+```
+
+This will put ollama on its default port [http://localhost:11434](http://localhost:11434)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
