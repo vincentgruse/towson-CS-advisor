@@ -18,8 +18,13 @@
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
     transition: background-color 0.3s ease;
     padding: 20px;
-    font-size: 18px;
+    font-size: 1.5rem;
     font-weight: bold;
+}
+
+.chatbot-circle .circle-icon {
+    width: 2vw;
+    padding: 0.25rem;
 }
 
 .chatbot-circle:hover {
@@ -45,13 +50,22 @@
 
 .chatbot-title {
     font-weight: bold;
+    font-size: 1.5rem;
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: #ffbb00;
     color: black;
-    padding: 10px;
+    padding: 1rem;
     position: relative;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.title-icon {
+    position: absolute;
+    left: 10px;
+    width: 2vw;
+    padding: 0.25rem;
 }
 
 .messages {
@@ -70,10 +84,12 @@
 
 .user-message {
     justify-content: flex-end;
+    font-size: 1.15rem;
 }
 
 .bot-message {
     justify-content: flex-start;
+    font-size: 1.15rem;
 }
 
 .user {
@@ -86,6 +102,7 @@
     padding: 10px;
     border-radius: 10px;
     display: inline-block;
+    box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.3);
 }
 
 .message {
@@ -102,6 +119,7 @@
 .chatbot-form input {
     flex: 1;
     padding: 10px;
+    font-size: 1.15rem;
     border: 1px solid #ccc;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
@@ -125,6 +143,11 @@
     transition: background-color 0.3s ease;
 }
 
+.chatbot-form .submit-icon {
+    width: 0.75vw;
+    padding-top: 2px;
+}
+
 .chatbot-form button:hover {
     background-color: #cc9900;
 }
@@ -137,13 +160,13 @@
 .clear-button {
     position: absolute;
     right: 10px;
-    background: black;
+    background: none;
     border: none;
-    color: #ffbb00;
     cursor: pointer;
-    border-radius: 50%;
-    font-weight: bold;
-    padding: 7px;
+}
+
+.clear-button-icon {
+    width: 1.75rem;
 }
 
 .clear-button:hover {
@@ -154,5 +177,6 @@
     color: #8a8a8a;
     text-align: center;
     font-style: italic;
+    font-size: 1.15rem;
     padding: 10px;
 }

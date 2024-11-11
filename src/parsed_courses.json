@@ -40,6 +40,14 @@
       "term": []
     },
     {
+      "id": "COSC 175",
+      "name": "Gen Computer Science",
+      "credits": 4,
+      "type": "Required Computer Science Courses",
+      "prerequisites": [],
+      "term": []
+    },
+    {
       "id": "COSC 236",
       "name": "Intro to Computer Science I",
       "credits": 4,

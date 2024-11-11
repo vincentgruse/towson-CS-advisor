@@ -1,0 +1,468 @@
+### BIOL 200: BIOLOGY I: INTRODUCTION TO CELLULAR BIOLOGY AND GENETICS [LECTURE] (3 credits)
+
+**Description:** An introduction to biology, including biologically important molecules, cell and tissue structure, respiration, photosynthesis, mitosis, meiosis and genetics. Course designed for Biology and related science majors; taking this course to fulfill Core credit generally not advised (see BIOL 120/ BIOL 120L as alternative). Core credit not given for both BIOL 200/ BIOL 200L and BIOL 120/ BIOL 120L. Students who have successfully completed the honors version of this course (BIOL 203) will not receive additional credit for this course. Withdrawal from either Lec or Lab is possible only after Change of Schedule. Corequisite: BIOL 200L.
+
+**Prerequisites:**
+- MATH 115
+- MATH 102
+
+### BIOL 206: BIOLOGY II: INTRODUCTION TO ECOLOGY AND EVOLUTION [LECTURE] (3 credits)
+
+**Description:** Population dynamics, community patterns and processes, origin and diversity of species, natural selection, speciation, and population genetics. Course designed for BIOL and related science majors; taking this course to fulfill Core credit generally not advised (see BIOL 120 and BIOL 120L as alternative). Withdrawal from either Lec or Lab is possible only after Change of Schedule. Corequisite: BIOL 206L (lab).
+
+**Prerequisites:**
+- BIOL 200
+- BIOL 200
+- BIOL 201
+
+### CHEM 131: GENERAL CHEMISTRY I LECTURE (3 credits)
+
+**Description:** Atomic and molecular structure; theories of bonding, stoichiometry; chemical reactions; gases; solutions. Open to science/math majors/minors only. Not open to those who successfully completed CHEM 110. CHEM 131 is a quantitative course and students are expected to be proficient in algebraic manipulations and graphical interpretation. This course includes three hours of lecture plus one hour of recitation per week. Withdrawal from either Lec or Lab is possible only after Change of Schedule. Corequisite: CHEM 131L. Core: Biological & Physical Sciences. Lab/Class fee will be assessed.
+
+**Prerequisites:**
+- None
+
+### CHEM 132: GENERAL CHEMISTRY II LECTURE (3 credits)
+
+**Description:** Physical properties of liquids, solids and solutions, kinetics, equilibrium, acids and bases, chemical thermodynamics and electrochemistry. Not open to those who successfully completed CHEM 111. CHEM 132 is a quantitative course and students are expected to be proficient in algebraic manipulations, exponentials, logarithms and graphical interpretation. Withdrawal from either Lec or Lab is possible only after Change of Schedule. Corequisite: CHEM 132L.
+
+**Prerequisites:**
+- CHEM 131
+- CHEM 131
+
+### COMM 131: PUBLIC SPEAKING (3 credits)
+
+**Description:** Perspectives of rhetoric and public speaking, investigating contemporary American experiences, delivering and critiquing speeches. Students who have successfully completed the honors version of this course (COMM 132) will not receive additional credit for this course. Core: Arts & Humanities.
+
+**Prerequisites:**
+- None
+
+### COSC 175: GEN COMPUTER SCI (4 credits)
+
+**Description:** Computer systems overview, algorithm development, data representation, software design and testing methodologies, and brief overview of advanced topics.
+
+**Prerequisites:**
+- None
+
+### COSC 236: INTRODUCTION TO COMPUTER SCIENCE I (4 credits)
+
+**Description:** Introduction to structured problem-solving, algorithm development and computer programming. Three lecture hours and two laboratory hours.
+
+**Prerequisites:**
+- COSC 175
+- MATH 115
+- MATH 117
+- MATH 119
+- MATH 211
+- MATH 231
+- ECON 205
+- MATH 273
+- MATH 274
+- MATH 275
+
+### COSC 237: INTRODUCTION TO COMPUTER SCIENCE II (4 credits)
+
+**Description:** Development of programming and problem-solving skills, with a focus on object-oriented programming and design. Students will design and develop programs using encapsulation and information hiding, inheritance, polymorphism, and generics. Introduction to data structures and their implementations (lists, stacks, queues, and trees), recursion, and searching and sorting algorithms. Includes two laboratory hours per week.
+
+**Prerequisites:**
+- COSC 236
+- MATH 211
+- MATH 273
+
+### COSC 290: PRINCIPLES OF COMPUTER ORGANIZATION (4 credits)
+
+**Description:** Computer organization and architecture including computer arithmetic, digital logic, principles of assembly language, memory system organization, computer interfacing, CISC and RISC architecture. Three hours per week of laboratory work required.
+
+**Prerequisites:**
+- COSC 236
+- MATH 263
+- MATH 267
+
+### COSC 336: DATA  STRUCTURES  AND ALGORITHM  ANALYSIS (4 credits)
+
+**Description:** Fundamental data structures used in programming and the basic techniques used to design and analyze algorithms. Topics include: complexity analysis of elementary algorithms, linear data structures, trees, heaps, graphs, search algorithms (balanced binary trees, B-trees, hashing), sorting algorithms, basic graph algorithms (graph traversal, topological sorting, shortest path, minimum spanning trees), and paradigms in the design of algorithms (divide and conquer, dynamic programming, greedy).
+
+**Prerequisites:**
+- COSC 237
+- MATH 274
+
+### COSC 350: DATA COMMUNICATIONS AND NETWORKING (3 credits)
+
+**Description:** Network architecture and protocols, data communications, LANs and cellular networks, forwarding and routing, TCP/IP suite, network programming and packet analysis. Corequisite: COSC 336.
+
+**Prerequisites:**
+- COSC 290
+
+### COSC 397: INTERNSHIP IN COSC (3 credits)
+
+**Description:** Students work in local computing facility under on-site and faculty supervision. May be repeated for a maximum of 6 units. Only 3 units can be applied to the major. Minimum of 2.75 GPA. Graded S/U.
+
+**Prerequisites:**
+- COSC 336
+
+### COSC 412: SOFTWARE ENGINEERING (3 credits)
+
+**Description:** Methodology of designing and programming for a wide area of applications with a high degree of modifiability, efficiency, reliability, and understanding.
+
+**Prerequisites:**
+- COSC 336
+
+### COSC 417: INTRODUCTION TO THE THEORY OF COMPUTING (3 credits)
+
+**Description:** A general introduction to the theory of computation, including finite automata, compatibility, formal languages and their relation to automata, algorithms, and algorithmic complexity. The major emphasis will be on developing formal descriptions of computers and computational processes, and practical implications of theoretical results.
+
+**Prerequisites:**
+- COSC 336
+
+### COSC 418: ETHICAL AND SOCIETAL CONCERNS OF COMPUTER SCIENTISTS (3 credits)
+
+**Description:** Ethical questions and societal concerns related to the widespread use of computers and the resulting responsibilities of computer scientists.
+
+**Prerequisites:**
+- ENGL 317
+- BUSX 301
+
+### COSC 431: No title available (null credits)
+
+**Description:** Independent studies in selected areas of computer science. A maximum of 4 units may be earned in selected topics.
+
+**Prerequisites:**
+- None
+
+### COSC 432: REQUIREMENTS ANALYSIS & MODELING (3 credits)
+
+**Description:** Introduces the basic concepts as well as the principles of software requirements development. Students will learn how to elicit, analyze, and model requirements and gain practical knowledge of tools and techniques related to these requirements activities. Develops theoretical knowledge and practitioner skills critical for real world applications.
+
+**Prerequisites:**
+- COSC 412
+
+### COSC 435: MOBILE APPLICATION DEVELOPMENT (3 credits)
+
+**Description:** A comprehensive, hands-on study of the design and creation of mobile applications using modern development environments and tools. Topics include mobile device architecture, event-handlers, location-based services, onboard mobile device sensors, programming languages, software engineering, user interface design, and mobile application distribution. This course has been offered as a special topic; students who have earned credit for this course as a special topic will not receive additional credit for COSC 435.
+
+**Prerequisites:**
+- COSC 336
+
+### COSC 436: OBJECT-ORIENTED DESIGN & PROGRAMMING (3 credits)
+
+**Description:** Introduction to object-oriented design and programming technology (OOD/OOP).  Main phases in object-oriented design and techniques in object-oriented programming. Programming language design and implementation issues for object-oriented languages.
+
+**Prerequisites:**
+- COSC 336
+
+### COSC 439: OPERATING SYSTEMS (3 credits)
+
+**Description:** Operating systems as resource managers with emphasis on file processor, memory and device management and processes. Design and implementation of a simulated multiprogramming operating system.
+
+**Prerequisites:**
+- COSC 336
+
+### COSC 440: OPERATING SYSTEMS SECURITY (3 credits)
+
+**Description:** an in-depth discussion of security concepts in operating systems. This course examines some of the security issues in current operating systems and discusses the existing tools and technologies for setting up a secure system.
+
+**Prerequisites:**
+- COSC 439
+
+### COSC 442: SOFTWARE QUALITY ASSURANCE AND TESTING (3 credits)
+
+**Description:** A comprehensive study of concepts, techniques, and tools for software quality assurance and testing. Software testing at the unit, subsystem and system levels; test models and test design techniques; integration, regression, and system testing methods; static and dynamic analysis; security and reliability testing and assessment.
+
+**Prerequisites:**
+- COSC 412
+
+### COSC 450: NETWORK SECURITY (3 credits)
+
+**Description:** Network security principles and applications, including authentication applications. IP security, Web security, network management security, wireless security and system security.
+
+**Prerequisites:**
+- MATH 314
+- COSC 350
+
+### COSC 455: PROGRAMMING LANGUAGES: DESIGN & IMPLEMENTATION (3 credits)
+
+**Description:** Underlying concepts in high-level programming languages and techniques for their implementation, a survey of a selected group of such languages along with a discussion of the interrelationship between programming and programming languages.
+
+**Prerequisites:**
+- COSC 336
+
+### COSC 457: DATABASE MANAGEMENT SYSTEMS (3 credits)
+
+**Description:** Data models and sublanguages; security and integrity problems; functions of the database administrator; implementation and use of a database management system; a comparison of widely used DBMS packages.
+
+**Prerequisites:**
+- COSC 336
+
+### COSC 458: APPLICATION SOFTWARE SECURITY (3 credits)
+
+**Description:** A study of security concepts in developing software applications. Discusses design principles for secure software development, and some of the security issues in current programming and scripting languages, database systems and Web servers.
+
+**Prerequisites:**
+- COSC 340
+- COSC 455
+- COSC 457
+- COSC 457
+
+### COSC 459: COMPUTER SIMULATION & MODELING (3 credits)
+
+**Description:** Simulation models and languages, data collection and output analysis, random number generation and Monte Carlo integration, model verification and validation, variance reduction techniques, optimization, the implementation and use of simulation techniques in problem solving.
+
+**Prerequisites:**
+- COSC 336
+- MATH 330
+
+### COSC 461: ARTIFICIAL INTELLIGENCE (3 credits)
+
+**Description:** A survey of the problems and techniques involved in producing or modeling intelligence in computers. Particular emphasis will be placed on representation of knowledge and basic paradigms of problem solving. Topics include game playing, theorem proving, natural language, and learning systems.
+
+**Prerequisites:**
+- COSC 336
+
+### COSC 465: ROBOTICS (3 credits)
+
+**Description:** Physical mechanisms of robotics, issues of modeling, planning control and programming.  Principles underlying the design and analysis of robotic systems, with emphasis on the autonomous, and behavior-based systems.
+
+**Prerequisites:**
+- COSC 336
+
+### COSC 467: FOUNDATIONS OF DATA MINING (3 credits)
+
+**Description:** A comprehensive, hands-on study of the techniques and tools in the field of data mining and knowledge discovery in data (KDD). The foundations of data mining from a number of perspectives are covered, including exploratory analysis, classification, and/or cluster analysis.
+
+**Prerequisites:**
+- COSC 457
+
+### COSC 471: COMPUTER GRAPHICS (3 credits)
+
+**Description:** An introduction to the field of computer generated and/or displayed graphics data.  Covers the topics of representation, transformations, curve and 3-D problems, graphics hardware, and programming considerations.
+
+**Prerequisites:**
+- COSC 336
+
+### COSC 483: DESIGN & ANALYSIS ALGORITHMS (3 credits)
+
+**Description:** Algorithm design methods such as heuristics, backtrack programming, branch and bound, recursion, simulation, divide-and-conquer, balancing, and dynamic programming. Efficiency of algorithms - NP-complete problems.
+
+**Prerequisites:**
+- COSC 336
+
+### COSC 484: WEB-BASED PROGRAM (3 credits)
+
+**Description:** Applications executing on a client-server system, emphasizing client side. Technologies include HTTP protocol, dynamic HTML, server-side programming, and client-side JavaScript libraries & frameworks.
+
+**Prerequisites:**
+- COSC 336
+
+### COSC 495: No title available (null credits)
+
+**Description:** Directed study in selected areas of Computer Science for which there is no regular course offered.  The use of a proposal and well-defined objectives as well as a formal paper or project report are required.
+
+**Prerequisites:**
+- None
+
+### ENGL 102: WRITING FOR A LIBERAL EDUCATION (3 credits)
+
+**Description:** Development of strategies for writing expository prose based on analytical reading. Intellectually challenging writing and reading activities and student-teacher interaction emphasizing collaborative and active learning. Students who have successfully completed the honors version of this course (ENGL 190) will not receive additional credit for this course. Requires grade of C or higher to fulfill. Core requirement. Core: English Composition.
+
+**Prerequisites:**
+- None
+
+### ENGL 317: WRITING FOR BUSINESS AND INDUSTRY (3 credits)
+
+**Description:** Standard written formats used in business and industry, including correspondence, memoranda, and reports. Projects individualized to meet student needs and career interests. Requires grade of C or better to fulfill Core requirement.
+
+**Prerequisites:**
+- ENGL 102
+- ENGL 190
+
+### GEOL 121: PHYSICAL GEOLOGY (4 credits)
+
+**Description:** Composition and structure of the earth, the internal and external forces acting upon it, and the surface features resulting. Laboratory studies of common rocks and minerals, geologic and topographic maps, and aerial photographs. Field trips required. Three lecture hours and three laboratory hours per week. Students who have successfully completed the honors version of this course (GEOL 122) will not receive additional credit for this course. Core: Biological & Physical Sciences. Lab/Class fee will be assessed.
+
+**Prerequisites:**
+- None
+
+### MATH 117: TRIGONOMETRY AND ADVANCED COLLEGE ALGEBRA (3 credits)
+
+**Description:** The second semester in a two-semester precalculus sequence, with a primary focus on trigonometry. Angle measures; trigonometric functions and their graphs; trigonometric identities; inverse trigonometric functions and their graphs; algebraic and graphical solutions of trigonometric equations and basic trigonometric inequalities; solving triangles; linear systems in two and three variables with applications to partial fractions; conic sections. Not open to students who have successfully completed MATH 119.
+
+**Prerequisites:**
+- MATH 115
+
+### MATH 119: PRE-CALCULUS (4 credits)
+
+**Description:** An overview of functions and their graphs as well as algebraic techniques and trigonometry in preparation for Calculus I (MATH 273). Functions emphasized are polynomial, rational, exponential, logarithmic, and trigonometric.
+
+**Prerequisites:**
+- None
+
+### MATH 211: CALCULUS FOR APPLICATIONS (3 credits)
+
+**Description:** Intended primarily for students in biology, business, economics, psychology and the social sciences. Elements of differential and integral calculus from an intuitive standpoint with emphasis on the use of calculus in the above fields. Exponential and logarithmic functions, partial derivatives included. Not open to mathematics majors or minors.
+
+**Prerequisites:**
+- MATH 115
+- MATH 119
+
+### MATH 263: DISCRETE MATHEMATICS (3 credits)
+
+**Description:** Sets, logic, induction, functions, relations, sequences, recursion, combinatorics, graphs and trees, matrices with an emphasis on applications in computer science.
+
+**Prerequisites:**
+- COSC 236
+
+### MATH 265: ELEMENTARY  LINEAR  ALGEBRA (4 credits)
+
+**Description:** Matrix calculations and determinants, vector spaces over the real numbers, linear transformations, eigenvalues, eigenvectors, and inner products with emphasis on applications. Not open to students who successfully completed MATH 365 or MATH 463.
+
+**Prerequisites:**
+- MATH 211
+- MATH 273
+
+### MATH 267: INTRODUCTION TO ABSTRACT MATHEMATICS (4 credits)
+
+**Description:** Sets, mappings, relations, logic, mathematical induction, properties of the integers, Fundamental Theorem of Arithmetic, polynomials, and elementary analytic concepts. Not open to those who successfully completed MATH 361 or MATH 467.
+
+**Prerequisites:**
+- MATH 273
+- MATH 265
+
+### MATH 273: CALCULUS I (4 credits)
+
+**Description:** Functions, limits, and continuity; differentiation of algebraic and trigonometric functions; mean value theorem; differentials; introduction to integration; applications. Four lecture hours and one laboratory hour per week. Students who have successfully completed the honors version of this course (MATH 283) will not receive additional credit for this course.
+
+**Prerequisites:**
+- MATH 117
+- MATH 119
+
+### MATH 274: CALCULUS II (4 credits)
+
+**Description:** Differentiation and integration of exponential, logarithmic, and inverse trigonometric functions; techniques of integration and applications; indeterminate forms; improper integrals; sequences and series of numbers; power series.
+
+**Prerequisites:**
+- MATH 273
+
+### MATH 275: CALCULUS III (4 credits)
+
+**Description:** Vectors in two and three dimensions, differential and integral calculus of functions of several variables.  Four lecture hours and one laboratory hours per week.
+
+**Prerequisites:**
+- MATH 274
+
+### MATH 314: INTRODUCTION TO CRYPTOGRAPHY (3 credits)
+
+**Description:** A broad introduction to cryptography and its mathematical foundations: Elementary number theory; classical and modern symmetric key cryptosystems; public key cryptography; primality tests, factoring algorithms; hash functions and digital signatures. Selected further topics may include security protocols, digital cash, elliptic curve cryptography, or quantum cryptography.
+
+**Prerequisites:**
+- COSC 236
+- MATH 263
+- MATH 267
+- MATH 330
+- MATH 331
+
+### MATH 315: APPLIED COMBINATORICS (4 credits)
+
+**Description:** General counting methods, pigeonhole principle, inclusion-exclusion principle, generating functions, recurrence relations, summation techniques, partitions, permutations and pattern avoidance, Polya's enumeration, asymptotics, select topics from graph theory.
+
+**Prerequisites:**
+- MATH 274
+- MATH 263
+- MATH 267
+
+### MATH 330: INTRODUCTION TO STATISTICAL METHODS (4 credits)
+
+**Description:** An introductory course for students with mathematics and computing backgrounds emphasizing statistical ideas and techniques. Descriptive statistics, probability, estimation and sampling, hypothesis testing, regression and correlation, and analysis of variance. A statistical package such as MINITAB is introduced as a computational tool.
+
+**Prerequisites:**
+- MATH 274
+
+### MATH 369: INTRODUCTION TO ABSTRACT ALGEBRA (4 credits)
+
+**Description:** Elementary number theory; congruences, groups up to and including the isomorphism theorems, commutative rings, polynomials, unique factorization, irreducibility, finite fields.
+
+**Prerequisites:**
+- MATH 265
+- MATH 267
+- MATH 274
+
+### MATH 374: DIFFERENTIAL EQUATIONS (3 credits)
+
+**Description:** Theory and application of linear ordinary differential equations: homogeneous and nonhomogeneous linear equations, initial and boundary value problems, exact equations, variation of parameters, Euler equations; solutions of  non-linear ordinary differential equations of the first order and second order; power series solutions; system of linear equations.
+
+**Prerequisites:**
+- MATH 274
+
+### MATH 377: MATHEMATICAL MODELS (3 credits)
+
+**Description:** Developing appropriate mathematical models and techniques to solve mathematical problems in sociology, psychology, economics, management science, and ecology.
+
+**Prerequisites:**
+- MATH 265
+- MATH 274
+- COSC 236
+
+### MATH 378: EXPERIMENTAL MATHEMATICS (3 credits)
+
+**Description:** A course-based introduction to undergraduate research and mathematical exploration through computational experimentation. Programming, computational methods, algorithms, and software environments used by research mathematicians. Students will apply these tools to explore patterns and make conjectures and explore the role of computation in formal mathematical proofs. Possible topics include: combinatorics, number theory, numerical analysis, modeling and visualization, fractals, computer-assisted proofs and graph theory.
+
+**Prerequisites:**
+- COSC 236
+- MATH 265
+- MATH 274
+- MATH 263
+- MATH 267
+
+### MATH 435: NUMERICAL ANALYSIS I (3 credits)
+
+**Description:** Error analysis, interpolation, numerical differentiation and integration, numerical solution of algebraic equations, direct and iterative techniques for solving linear systems of algebraic equations. Mathematical and comparable computer algebra systems will be used.
+
+**Prerequisites:**
+- MATH 265
+- MATH 274
+- COSC 236
+
+### MATH 436: No title available (null credits)
+
+**Description:** No description available
+
+**Prerequisites:**
+- None
+
+### MATH 437: OPERATIONS RESEARCH (3 credits)
+
+**Description:** Introduction to linear, integer and nonlinear programming, the simplex method and interior point methods, duality and sensitivity analysis; formulation of optimization models and applications to problems from industry.
+
+**Prerequisites:**
+- MATH 265
+- MATH 331
+
+### MATH 451: GRAPH THEORY (3 credits)
+
+**Description:** Hamiltonian and Eulerian graphs, coloring graphs, planar and non-planar graphs, connectivity problems; isomorphic graphs, and advanced topics.
+
+**Prerequisites:**
+- MATH 263
+- MATH 267
+
+### MATH 467: ALGEBRAIC STRUCTURES (3 credits)
+
+**Description:** Topics include groups, solvability, and insolvability of polynomials, principal ideal, Euclidean, and unique factorization domains.
+
+**Prerequisites:**
+- MATH 369
+
+### PHYS 241: GENERAL PHYSICS I CALCULUS-BASED (4 credits)
+
+**Description:** Calculus-based physics for science and engineering majors. Mechanics and the conservation laws, gravitation, simple harmonic motion. Students who have successfully completed the honors version of this course (PHYS 251) will not receive additional credit for this course.
+
+**Prerequisites:**
+- MATH 273
+
+### PHYS 242: GENERAL PHYSICS II CALCULUS-BASED (4 credits)
+
+**Description:** Continuation of PHYS 241. Electricity, magnetism, DC and AC currents, geometric optics. Students who have successfully completed the honors version of this course (PHYS 252) will not receive additional credit for this course.
+
+**Prerequisites:**
+- PHYS 241
+- PHYS 211
+- MATH 274
