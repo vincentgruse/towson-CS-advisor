@@ -1,17 +1,15 @@
 const fs = require('fs');
-const pdf = require('pdf-parse');
 const axios = require('axios');
 const cheerio = require('cheerio');
 
-// Function to extract course codes from a PDF
-async function extractCourseCodes(pdfPath) {
-    const dataBuffer = fs.readFileSync(pdfPath);
-    const data = await pdf(dataBuffer);
-    const courseCodeRegex = /[A-Z]{4} \d{3}/g;
-    const courseCodes = data.text.match(courseCodeRegex);
-    
-    return courseCodes ? [...new Set(courseCodes)] : [];
-}
+// Hardcoded list of course codes
+const courseCodes = [
+    "COSC 501", "COSC 502", "COSC 519", "COSC 578", "COSC 600",
+    "COSC 601", "COSC 603", "COSC 612", "COSC 618", "COSC 647",
+    "COSC 650", "COSC 657", "COSC 685", "COSC 710", "COSC 716",
+    "COSC 734", "COSC 745", "COSC 750", "COSC 757", "COSC 760",
+    "COSC 880", "COSC 897", "MATH 263"
+];
 
 // Function to fetch course details from Towson's catalog
 async function fetchCourseDetails(courseCode) {
@@ -25,7 +23,6 @@ async function fetchCourseDetails(courseCode) {
         const courseHeader = $('h3').first().text().trim();
         
         // Parse the header to extract title and credits
-        // Format: "COSC 175 GEN COMPUTER SCI (4)"
         const headerRegex = /[A-Z]{4}\s+\d{3}\s+(.+?)\s+\((\d+)\)/;
         const headerMatch = courseHeader.match(headerRegex);
         const courseTitle = headerMatch ? headerMatch[1].trim() : 'No title available';
@@ -42,8 +39,6 @@ async function fetchCourseDetails(courseCode) {
         if (prereqIndex !== -1) {
             description = fullText.substring(0, prereqIndex).trim();
             const prereqText = fullText.substring(prereqIndex).trim();
-
-            // Use a regex to extract course codes (like 'MATH 265', 'COSC 175') from the prerequisites
             const courseCodeRegex = /[A-Z]{4} \d{3}/g;
             prerequisites = prereqText.match(courseCodeRegex) || [];
         }
@@ -70,11 +65,9 @@ function formatMarkdown(courseDetails) {
     }).join('\n');
 }
 
-// Main function to extract course codes, sort them, and save to a markdown file
+// Main function to fetch course details and save to a markdown file
 async function main() {
-    const pdfPath = './cs-major-23-24-update.pdf';
-    const outputPath = './course-details.txt';
-    const courseCodes = await extractCourseCodes(pdfPath);
+    const outputPath = './course-desc.md';
     const courseDetails = [];
     
     for (const courseCode of courseCodes) {

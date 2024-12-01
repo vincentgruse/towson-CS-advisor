@@ -1,10 +1,10 @@
 import React from 'react';
-import Chatbot from './Chatbot';
+import Chatbot from './components/Chatbot';
 
 const App = () => {
     return (
         <div className="App">
-            <h1>Towson University Advising Page</h1>
+            <img src="./tu-logo-formal.png" alt="Towson Icon" className="webpage-logo" />
             <Chatbot />
         </div>
     );

@@ -1,0 +1,117 @@
+# Computer Science M.S.
+
+**Degree:** Master of Science  
+[Program Website](https://www.towson.edu/fcsm/departments/computerinfosci/grad/computersci/)
+
+## Program Contacts
+- **Program Director:** Ziying Tang  
+  - Phone: 410-704-3090  
+  - Email: [ztang@towson.edu](mailto:ztang@towson.edu)
+- **Program Manager:** Michelle Bowman  
+  - Phone: 410-704-4309  
+  - Email: [mbowman@towson.edu](mailto:mbowman@towson.edu)
+
+---
+
+The Master of Science in Computer Science program provides a comprehensive approach to advanced study in the field of computer science. It prepares individuals for various technical and scientific positions in computing applications, including research, development, cybersecurity, e-commerce, and more. Graduates are also equipped for doctoral-level study.
+
+## Program Objectives
+1. Provide advanced knowledge in computer science specialties.
+2. Develop skills to apply problem-solving methods and tools to research and industry-related problems.
+3. Equip students with tools and knowledge for continuous learning in a high-tech society.
+4. Prepare students for advanced graduate work in computer science.
+
+---
+
+## Accelerated Bachelor’s-Master’s Program
+Students may earn an M.S. in Computer Science through the accelerated bachelor’s and master’s program, allowing them to complete both degrees in a shorter time. Contact the director of accelerated programs for details.
+
+---
+
+## Admission Requirements
+Find detailed deadlines and required materials on the [admission website](https://www.towson.edu/fcsm/departments/computerinfosci/grad/computersci/admission.html).
+
+### Prerequisites for Admission
+| Code       | Title                                                        | Units |
+|------------|--------------------------------------------------------------|-------|
+| COSC 501   | Fundamentals of Data Structures and Algorithms               | 6     |
+| COSC 502   | Computer Organization and Assembly Language for Non-CS Majors| 3     |
+| MATH 263   | Discrete Mathematics                                         | 3     |
+
+- **Prerequisite Notes:**
+  - COSC 501 and COSC 502 can be taken together.
+  - These prerequisites are not required for students with a Computer Science degree.
+  - MATH 263 is waived for students with engineering, mathematics, or computer science degrees.
+  - Grade "B" or better required for prerequisites.
+
+---
+
+## Degree Requirements
+- Complete preparatory courses (if applicable).
+- Complete Core Courses and one of three tracks:
+  - Software Engineering
+  - Cybersecurity
+  - Data Science
+- At least 24 units must be at the 600-800 level.
+- Core Courses require a grade of "B" or better.
+
+---
+
+### Core Requirements (All Tracks)
+| Code       | Title                                       | Units |
+|------------|---------------------------------------------|-------|
+| COSC 519   | Operating Systems Principles                | 3     |
+| COSC 578   | Database Management Systems I              | 3     |
+| COSC 600   | Advanced Data Structures and Algorithm Analysis | 3  |
+| COSC 612   | Software Engineering I                     | 3     |
+| COSC 650   | Computer Networks                          | 3     |
+| Thesis/Project | COSC 880 (Project) or COSC 897 (Thesis) | 3-6   |
+
+**Total Units:** 18-21
+
+---
+
+### Track Options (33 units total)
+#### Software Engineering Track
+- **Core Courses:** 15 units  
+- **Track Courses:** 9 units  
+  - COSC 601: Software Requirements Engineering  
+  - COSC 603: Software Testing and Maintenance  
+  - COSC 618: Enterprise Architecture  
+  - COSC 716: Object-Oriented Methodology  
+- **Electives:** 3-6 units  
+
+#### Cybersecurity Track
+- **Core Courses:** 15 units  
+- **Track Courses:** 9 units  
+  - COSC 647: Application Software Security  
+  - COSC 685: Information Security and Risk Management  
+  - COSC 734: Network Security  
+  - COSC 745: Advanced Topics in Computer Security  
+- **Electives:** 3-6 units  
+
+#### Data Science Track
+- **Core Courses:** 15 units  
+- **Track Courses:** 9 units  
+  - COSC 757: Data Mining  
+  - Additional options:  
+    - COSC 657: Database Management Systems II  
+    - COSC 710: Social Network Analysis  
+    - COSC 750: Neural Networks and Deep Learning  
+    - COSC 760: Big Data Analytics  
+- **Electives:** 3-6 units  
+
+---
+
+## Transfer Courses
+Up to two graduate-level courses may be transferred with program director approval.
+
+---
+
+## Learning Outcomes
+1. Apply advanced theoretical and applied computing skills to solve problems.
+2. Design, develop, and evaluate computing systems and algorithms.
+3. Work effectively in teams and communicate proficiently.
+4. Contribute to research and development in computing.
+
+---

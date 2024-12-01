@@ -1,0 +1,163 @@
+### COSC 501: FUNDAMENTALS OF DATA STRUCTURES AND ALGORITHM (6 credits)
+
+**Description:** Designed for graduate students to provide them with the necessary background in data structures and algorithm analysis. Topics include: objects and abstract data types, dynamic variables and pointers, recursion, sort and search ,algorithms, linear and non-linear structures such as linked lists, trees and graphs, hashing, algorithms time complexity analysis, object-oriented design and programming. Graded S/U.
+
+**Prerequisites:**
+- None
+
+### COSC 502: COMPUTER ORGANIZATIONAL AND ASSEMBLY LANGUAGE FOR NON CS/CIS MAJOR (3 credits)
+
+**Description:** Computer organization and architecture including computer arithmetic, digital logic, assembly language, memory system organization, and computer interfacing. This course is a preparatory course for the Masters in Computer Science Program and has S/U grading.
+
+**Prerequisites:**
+- None
+
+### COSC 519: OPERATING SYSTEMS PRINCIPLES (3 credits)
+
+**Description:** An overview of the principles of operating systems. Topics include multiple processes, process synchronization and intercommunication, resource allocation, memory management, processor scheduling and I/O device management.
+
+**Prerequisites:**
+- None
+
+### COSC 578: DATABASE MANAGEMENT SYSTEMS I (3 credits)
+
+**Description:** Build theoretical foundation for database management systems, study different database models, relational algebra, relational calculus, SQL, ER, EER models, structured query formulations, database design, analysis and modeling, functional dependencies and normalization, and overview of next generation database management systems.
+
+**Prerequisites:**
+- None
+
+### COSC 600: ADVANCED DATA STRUCTURES AND ALGORITHM ANALYSIS (3 credits)
+
+**Description:** Data abstraction, linear data structures, file organization and access methods, memory management, advanced internal and external sort and search algorithms and the trade-offs involved in the use of different data organization.
+
+**Prerequisites:**
+- None
+
+### COSC 601: SOFTWARE REQUIREMENTS ENGINEERING (3 credits)
+
+**Description:** Introduces the basic concepts and principles of software requirements engineering, and is designed to expose student to common tools and techniques, established methods for modeling software systems and various approaches to requirements engineering (structured, object oriented and formal).  Intends to cover in its entirety the process of requirements engineering.
+
+**Prerequisites:**
+- COSC 612
+
+### COSC 603: SOFTWARE TESTING AND MAINTENANCE (3 credits)
+
+**Description:** A comprehensive survey of software maintenance and testing, principles, methodologies, management strategies, techniques and tools. Software testing at the unit, subsystem and system levels using various test design techniques, as well as integration, regression, and system testing methods, and software testing tools. Designing and implementing software technologies to increase maintainability and testability; evaluating software for change and validating software changes.
+
+**Prerequisites:**
+- COSC 612
+
+### COSC 612: SOFTWARE ENGINEERING I (3 credits)
+
+**Description:** Formal software engineering principles and practices and their application to the development of computer-based systems.
+
+**Prerequisites:**
+- None
+
+### COSC 618: ENTERPRISE ARCHITECTURE (3 credits)
+
+**Description:** Provides a set of latest approaches in designing IT infrastructures aligning them with enterprise business activities at the architectural level, including business architecture, information architecture, solution architecture, and technology architecture. Institutionalization of enterprise architecture frameworks and standards will be discussed. Topics include the fundamentals of business functions and IT infrastructure of an enterprise including definitions, frameworks, business process modeling, process institutionalization using CMMI, EA implementations through service-oriented architecture, (SOA), and the various networking technologies in LAN/MAN/WAN as the enablers for EA.
+
+**Prerequisites:**
+- COSC 612
+
+### COSC 647: APPLICATION SOFTWARE SECURITY (3 credits)
+
+**Description:** Security concepts in developing software applications. Discusses design principles for secure software development, and some of the security issues in current programming and scripting languages, database systems and Web servers.
+
+**Prerequisites:**
+- COSC 578
+- COSC 600
+
+### COSC 650: COMPUTER NETWORKS (3 credits)
+
+**Description:** Computer networking concepts and technologies. Architectures and protocols, LANS, Internet working, and applications.
+
+**Prerequisites:**
+- None
+
+### COSC 657: DATABASE MANAGEMENT SYSTEMS II (3 credits)
+
+**Description:** Relational database systems application, implementation, management, administration, design, advanced data modeling, object-oriented databases, deductive databases, query optimization, functional dependencies, concurrency, security and integrity.
+
+**Prerequisites:**
+- COSC 457
+- COSC 578
+
+### COSC 685: INFORMATION SECURITY AND RISK MANAGEMENT (3 credits)
+
+**Description:** Explores approaches for performing risk assessment of information systems. Foundational concepts in risk management will be introduced, as well as approaches and tools for monitoring, identifying, analyzing, and responding to risks. Students will become knowledgeable of general information security risk management frameworks, know how to identify and model security risks, and know how to conduct thorough business impact analyses to provide recommended action plans.
+
+**Prerequisites:**
+- COSC 600
+
+### COSC 710: SOCIAL NETWORK ANALYSIS (3 credits)
+
+**Description:** Covers the concepts, structures and analysis of large social and information networks. Hands-on techniques will explore how to analyze large-scale social network data, explore social behavior, and apply the techniques to real-world problems. Students will work on cases on actual social network data and present strategic recommendations based on analysis of the data.
+
+**Prerequisites:**
+- COSC 600
+
+### COSC 716: OBJECT-ORIENTED METHODOLOGY (3 credits)
+
+**Description:** Object-oriented approach to modeling, problem solving, requirement analysis, system design, system implementation, database design, system engineering and software engineering.
+
+**Prerequisites:**
+- COSC 600
+
+### COSC 734: NETWORK SECURITY (3 credits)
+
+**Description:** Principles and practice of network security. Topics include authentication services, email security, IP security, Web security, security systems and threats, wireless security, and security applications.
+
+**Prerequisites:**
+- COSC 650
+
+### COSC 745: ADVANCED TOPICS IN COMPUTER SECURITY (3 credits)
+
+**Description:** In-depth study of advanced topics in computer security. Topics will vary according to current trends and research directions in the field. Possible topics include: secure file and mail systems, operating system vulnerabilities, firewall and intrusion detection system design, denial of service attack issues, malicious code, virus detection and removal, router security, password attacks, Internet security mechanisms, spoofing, session hijacking, sniffers, scanners, logging and auditing techniques, and security in mobile environments. A project that requires security tools and software, and a paper based on a research topic in computer security is required.
+
+**Prerequisites:**
+- COSC 645
+
+### COSC 750: NEURAL NETWORKS AND DEEP LEARNING (3 credits)
+
+**Description:** Discussion of neural network and deep learning, architectures, algorithms and applications, including feedforward neural networks, backpropagation, convolutional neural networks, recurrent neural networks, LSTM, deep belief networks, autoencoders, generative models, and Boltzmann machines.
+
+**Prerequisites:**
+- COSC 600
+- COSC 757
+
+### COSC 757: DATA MINING (3 credits)
+
+**Description:** Designed to provide students with a broad background in data mining techniques and related topics. Real-world applications including Web mining will be emphasized. Current data mining tools will be used in student projects.
+
+**Prerequisites:**
+- COSC 578
+
+### COSC 760: BIG DATA ANALYTICS (3 credits)
+
+**Description:** Study of big data analytics, including the management of various public and private datasets from business, health care, multimedia, cyber-physical systems (CPS), Internet of Things (IoTs), and social media. Hands-on experience with managing the collection, ingestion, storage, analytics, and interpretation of big data using various cloud-based big data frameworks and NoSQL databases such as Hadoop, MongoDB, CouchDB, Elasticsearch, and Spark. Introduction to various big data analytics methods using distributed machine learning libraries. Current research and future trends in big data analytics from the current literature will be explored.
+
+**Prerequisites:**
+- COSC 578
+
+### COSC 880: COMPUTER SCIENCE GRAD PROJECT (3 credits)
+
+**Description:** Enables students to conduct a study in an advanced computer-related topic or undertake the analysis, design and implementation of a real-world application. Graded S/U.
+
+**Prerequisites:**
+- None
+
+### COSC 897: COMPUTER SCIENCE THESIS (6 credits)
+
+**Description:** An original investigation using an acceptable research method and design.
+
+**Prerequisites:**
+- None
+
+### MATH 263: DISCRETE MATHEMATICS (3 credits)
+
+**Description:** Sets, logic, induction, functions, relations, sequences, recursion, combinatorics, graphs and trees, matrices with an emphasis on applications in computer science.
+
+**Prerequisites:**
+- None
